@@ -15,6 +15,7 @@ while True:
         texto = input("Introduce la nota: ")
         agregar_nota(notas, texto)
 
+
     elif opcion == "2":
         mostrar_notas(notas)
 
