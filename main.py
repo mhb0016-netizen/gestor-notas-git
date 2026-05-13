@@ -7,7 +7,7 @@ while True:
     print("1. Añadir nota")
     print("2. Mostrar notas")
     print("3. Eliminar nota")
-    print("4. Salir")
+    print("4. Salir ")
 
     opcion = input("Selecciona una opción: ")
 
